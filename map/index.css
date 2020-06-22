@@ -1,0 +1,66 @@
+* {
+    font-family: "Microsoft JhengHei", "LiHei Pro", "sans-serif";
+}
+
+/* Always set the map height explicitly to define the size of the div element that contains the map. */
+#map {
+    height: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#searchbox {
+    z-index: 100;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+
+    max-width: 90%;
+
+    background-color: white;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+#searchbox * {
+    border: transparent;
+}
+
+#left-panel {
+    z-index: 100;
+    position: fixed;
+    top: 0px;
+    left: -500px;
+    bottom: 0px;
+
+    width: 400px;
+    height: 100%;
+
+    background-color: white;
+    box-shadow: 10px 0px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 5px 5px 0px;
+    transition: 0.5s;
+
+    overflow: hidden;
+}
+
+#left-panel.show {
+    left: 0px;
+}
+
+@media (max-width: 480px) {
+    #left-panel {
+        width: 100%;
+    }
+}
+
+.toast-body {
+    overflow: auto;
+    height: calc(100% - 0.5rem - 1.9rem);
+}

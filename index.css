@@ -1,0 +1,98 @@
+* {
+    font-family: "Microsoft JhengHei", "LiHei Pro", "sans-serif";
+}
+
+#navbar {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-lin {
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 768px) {
+    #navbar {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (min-width: 1020px) {
+    #navbar {
+        padding-left: calc((100% - 1000px) / 2);
+        padding-right: calc((100% - 1000px) / 2);
+    }
+}
+
+.blocks {
+    display: flex;
+}
+
+.image-block {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.image-block .description {
+    color: white;
+    background-color: rgba(66, 85, 79, 0.85);
+
+    padding: 20px 20px 30px 30px;
+    max-width: 500px;
+    border-radius: 0px 10px 0px 0px;
+
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.image-block .title {
+    font-size: 150%;
+    text-align-last: justify;
+    color: white;
+    background-color: rgba(81, 84, 93, 0.85);
+
+    padding: 10px 30px 10px 30px;
+    min-width: 400px;
+    border-radius: 10px 30px 10px 30px;
+
+    position: absolute;
+    bottom: 50px;
+    right: 80px;
+}
+
+.authors img {
+    max-width: 80px;
+    border-radius: 50px;
+}
+
+.media {
+    margin-bottom: 10px;
+}
+
+.media .image div {
+    text-align: center;
+    margin: 5px;
+}
+
+@media (max-width: 1020px) {
+    .image-block .title {
+        right: 20%;
+        top: 20%;
+        bottom: initial;
+        min-width: 50%;
+        max-width: 95%;
+    }
+}
+
+footer {
+    text-align: center;
+}

@@ -1,0 +1,290 @@
+{
+    "status": 1,
+    "cafes": [
+        {
+            "id": "0676e926-6da7-4ff3-9f81-52132b75e8ef",
+            "name": "Coffee Cellar\u7a96\u5496\u5561",
+            "score": 0,
+            "latitude": 24.5625892,
+            "longitude": 120.8206216,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "19205c4b-93ca-4798-bbef-759a1821f965",
+            "name": "The Spot Coffee Company",
+            "score": 28,
+            "latitude": 24.5697109,
+            "longitude": 120.8239999,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "193f0fa3-b515-4676-bb89-040519058da5",
+            "name": "12\u5496\u5561\u9928",
+            "score": 0,
+            "latitude": 24.6912062,
+            "longitude": 120.8776955,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "55ee878d-f982-4c79-8920-fefb27aca5df",
+            "name": "\u751c\u5b85 cafe'",
+            "score": 25,
+            "latitude": 24.5621012,
+            "longitude": 120.817902,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "578481e0-14f5-47ab-b29a-682203117fcd",
+            "name": "ritrovare coffee \/ \u5c0b\u54c1\u00b7\u65ec\u54c1 \u5496\u5561",
+            "score": 0,
+            "latitude": 24.5520607,
+            "longitude": 120.8151234,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "641e60f2-7c85-4ff6-9339-da22310c9de9",
+            "name": "OLULU Cafe & \u5091\u6069\u5496\u5561\u5de5\u5ee0(\u82d1\u88e1\u5e97)",
+            "score": 19,
+            "latitude": 24.3729009,
+            "longitude": 120.6971798,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "6d055885-913d-4772-8721-08b3a6771028",
+            "name": "\u96f2\u5c71\u521d\u9732",
+            "score": 0,
+            "latitude": 24.292155,
+            "longitude": 120.807031,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "75fd0640-a1a6-4bc2-8203-62f1dc3bfe2f",
+            "name": "\u690d\u611f\u5496\u5561_Botanical Caf\u00e9",
+            "score": 30,
+            "latitude": 24.5711932,
+            "longitude": 120.8209138,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "79f7f394-f27e-4cfd-a707-dba287a72361",
+            "name": "\u521d\u53e3\u751c\u9ede",
+            "score": 24,
+            "latitude": 24.5623486,
+            "longitude": 120.8343986,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "807a95c7-8e8e-4741-808e-74f64e24de7c",
+            "name": "\u85cd\u591a\u8212\u5fc3\u6599\u7406 Randall nouvelle cuisine",
+            "score": 20,
+            "latitude": 24.6896642,
+            "longitude": 120.8802691,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "9ceffc6c-30e6-459b-b311-81b295121561",
+            "name": "\u82d1\u88e1\u597d\u5496",
+            "score": 15,
+            "latitude": 24.4405637,
+            "longitude": 120.6531811,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "a496db99-f8b6-4439-9eed-95a59c754bf8",
+            "name": "\u91b2\u5496\u5561",
+            "score": 27,
+            "latitude": 24.6847292,
+            "longitude": 120.9086825,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "a51968ac-0ec0-4e74-be0d-4cee8bc8e9c8",
+            "name": "\u6ab8\u2027\u5496\u5561",
+            "score": 20,
+            "latitude": 24.6962607,
+            "longitude": 120.9024202,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "a57471f1-8646-4ffd-95bb-2cc49047dd77",
+            "name": "cafe'32",
+            "score": 29,
+            "latitude": 24.6888628,
+            "longitude": 120.9018309,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "aca8d082-0ec8-4079-8476-d2a748e95e16",
+            "name": "\u8f49\u8f49 ZONZON",
+            "score": 0,
+            "latitude": 24.540495,
+            "longitude": 120.837944,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "b5a6abf0-d282-4da8-b3cb-e4bf7b80a340",
+            "name": "\u9ad8\u6d77\u62d4\u5496\u5561",
+            "score": 30,
+            "latitude": 24.5549971,
+            "longitude": 120.8217721,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "d7332c6a-2183-4b06-acc9-d58cd75c710d",
+            "name": "\u6771\u6d77\u5496\u5561",
+            "score": 20,
+            "latitude": 24.5533813,
+            "longitude": 120.8168885,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "deca324c-cd04-4b74-9a7f-b476337d4bc9",
+            "name": "Me Coffee Shop",
+            "score": 28,
+            "latitude": 24.5526821,
+            "longitude": 120.8155588,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "e0e99d5d-46f5-4bb2-8916-612e805fc230",
+            "name": "\u8001\u5bb6",
+            "score": 23,
+            "latitude": 24.5577402,
+            "longitude": 120.8216209,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        }
+    ]
+}

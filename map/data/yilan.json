@@ -1,0 +1,1130 @@
+{
+    "status": 1,
+    "cafes": [
+        {
+            "id": "00647eb2-1248-4af7-9c8a-409c5e0371da",
+            "name": "CAF\u00c9 SLOW TRAIN \u5c0f\u706b\u8eca\u5496\u5561\u9928",
+            "score": 24,
+            "latitude": 24.753609,
+            "longitude": 121.756741,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "033728b5-37f1-4dab-943c-3774403cea04",
+            "name": "Jessica kafa",
+            "score": 29,
+            "latitude": 24.7448013,
+            "longitude": 121.7490923,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "03afe2ec-2d55-4570-b1f1-5dc7eb6ce76e",
+            "name": "\u6600\u9802\u5496\u5561\u574a",
+            "score": 29,
+            "latitude": 24.7492751,
+            "longitude": 121.74793,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "056a997a-ca5a-43a2-a5bd-c56d035794eb",
+            "name": "\u65e5\u81fb\u5496\u5561 Zhen's Cafe",
+            "score": 26.5,
+            "latitude": 24.7421986,
+            "longitude": 121.7487017,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "06f03baf-1654-4f49-84bc-6e359c6d1cc9",
+            "name": "Cherry \u7d93\u5178\u5496\u5561",
+            "score": 27.5,
+            "latitude": 24.7444748,
+            "longitude": 121.7548471,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "08d9bd4f-3e0b-4470-90f0-456558be3320",
+            "name": "\u6b46\u7aa9\u300esing\u2027cafe\u300f",
+            "score": 26,
+            "latitude": 24.7467034,
+            "longitude": 121.7516993,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "0bcd5ba2-0796-4e04-8aa9-050ec35addfb",
+            "name": "\u746a\u5fb7\u7433 caf\u00e9 de madeleine",
+            "score": 0,
+            "latitude": 24.7983706,
+            "longitude": 121.7871335,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "100a5e2d-b287-4487-9a59-d2455c746f64",
+            "name": "\u79be\u5b50\u5496\u5561",
+            "score": 28,
+            "latitude": 24.7489492,
+            "longitude": 121.7375119,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "13ede237-555c-4dbf-a793-c9be8beecb10",
+            "name": "GOROGORO",
+            "score": 25.5,
+            "latitude": 24.7500821,
+            "longitude": 121.7529136,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "16857a35-054c-4d03-892f-32c3c76072de",
+            "name": "\u54e5\u502b\u5e03\u5496\u5561",
+            "score": 18,
+            "latitude": 24.746318,
+            "longitude": 121.7541851,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "16908944-6f01-426e-a7ad-5a4618095bb3",
+            "name": "GK Coffee\uff08\u5e73\u5b89\u5c45\u5496\u5561\u6c11\u5bbf\uff09",
+            "score": 28,
+            "latitude": 24.6730851,
+            "longitude": 121.7475813,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "1edabf40-9dd8-4a8e-89fa-d0d48983536b",
+            "name": "\u8c50\u5496\u5561\u4e94\u7d50\u5e97",
+            "score": 24,
+            "latitude": 24.6927448,
+            "longitude": 121.7702777,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "235065e9-d2a3-47fd-9df6-73487bad5271",
+            "name": "\u8a9e\u5f8c\u5496\u5561 Ameagari Cafe",
+            "score": 30,
+            "latitude": 24.754881,
+            "longitude": 121.764063,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "23cb017d-6d35-4ca1-a11a-3adde3f00601",
+            "name": "\u90c1\u898b\u5e78\u798f",
+            "score": 25,
+            "latitude": 24.7481609,
+            "longitude": 121.7511655,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "30b39380-5a20-42c2-81fa-9547712a2ba7",
+            "name": "\u6d77\u795e\u5496\u5561 Poseidon Cafe",
+            "score": 28.5,
+            "latitude": 24.5791071,
+            "longitude": 121.87236,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "32882a8c-a93c-4f6c-b765-a645f9652c5b",
+            "name": "\u7046\u5496\u5561Seaview Coffee",
+            "score": 26,
+            "latitude": 24.85635,
+            "longitude": 121.831956,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "3c716d57-5475-40e7-a4ec-2b602c3a29d2",
+            "name": "\u590f\u81f3\u5496\u5561",
+            "score": 26,
+            "latitude": 24.745654,
+            "longitude": 121.754595,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "3fae93c2-bfb3-4b94-857e-c639f32f3ec7",
+            "name": "\u5e73\u5b89\u5c45\u6c11\u5bbf + GK coffee\u81ea\u5bb6\u70d8\u7119\u5496\u5561",
+            "score": 0,
+            "latitude": 24.6729082,
+            "longitude": 121.7475211,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "4290e8c5-da0e-4150-8e70-17884733cd3c",
+            "name": "\u6d6e\u65e5\u9592",
+            "score": 27,
+            "latitude": 24.6832046,
+            "longitude": 121.7577769,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "4292cb1d-ad51-49a7-a191-b0c9138822a1",
+            "name": "\u5c0d\u7684\u5496\u5561\u5b78\u904a\u5de5\u5834 THE COFFEE CENTER",
+            "score": 17,
+            "latitude": 24.7484121,
+            "longitude": 121.7804468,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "482e174c-7a26-4e19-bdb3-25586bb4e0ad",
+            "name": "\u5c0f\u773c\u775b\uff0e\u624b\u4f5c\uff0e\u5496\u5561\u9928",
+            "score": 30,
+            "latitude": 24.7735671,
+            "longitude": 121.70975,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "4939eff6-9684-44e3-99d6-21708ac567b6",
+            "name": "\u9cf4\u8349\u5496\u5561",
+            "score": 23.5,
+            "latitude": 24.7597611,
+            "longitude": 121.751429,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "4c30f27b-5731-4f48-8fcb-237013ddce39",
+            "name": "No.100\u5496\u5561\u96a8\u884c\u5427",
+            "score": 22,
+            "latitude": 24.669943,
+            "longitude": 121.771559,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "4d48c951-e7ec-4f79-8e7b-a9d213d1f2c9",
+            "name": "HaoHaoKaffe(\u884c\u53e3\u6587\u65c5\u5e97)",
+            "score": 25,
+            "latitude": 24.7556774,
+            "longitude": 121.7575879,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "4db108b9-f037-4fb7-84cf-bb92e4aaf57c",
+            "name": "\u5561Style\u7fa9\u5f0f\u5496\u5561\u63a8\u5ee3\u4e2d\u5fc3",
+            "score": 0,
+            "latitude": 24.6842704,
+            "longitude": 121.7949677,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "51ffe071-f7ce-46ec-8f70-bc4da90b6c65",
+            "name": "\u5408\u76db\u592a\u5e73\u5496\u5561",
+            "score": 0,
+            "latitude": 24.7592907,
+            "longitude": 121.7528587,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "5c8fc6fe-911a-45ce-8454-6c202f6c21ae",
+            "name": "\u96b1\u85cf\u7248\u5c0f\u5496\u5561",
+            "score": 28,
+            "latitude": 24.6760052,
+            "longitude": 121.7727325,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "5dec1642-6cbf-4d9e-b9ff-021f7dd9ce1e",
+            "name": "esencia cafe \u827e\u8056\u5e2d\u4e9e\u5496\u5561\u5c4b",
+            "score": 29,
+            "latitude": 24.751643,
+            "longitude": 121.744909,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "6604d080-499c-41e9-b25e-16158ab3b212",
+            "name": "\u8001\u623f\u5b50\u5496\u5561",
+            "score": 0,
+            "latitude": 24.671768,
+            "longitude": 121.770105,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "67b4e52c-e359-4bba-9e4f-5e5dfcc3fe41",
+            "name": "\u5df7\u5149\u5496\u5561 to light coffee roasters",
+            "score": 22,
+            "latitude": 24.6773753,
+            "longitude": 121.7711882,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "68ae98ae-e8ad-4581-800d-a84b8e82cead",
+            "name": "\u9999\u8349\u666f\u89c0\u5496\u5561 Vanilla Cafe-\u5b9c\u862d\u982d\u57ce\u5e97",
+            "score": 0,
+            "latitude": 24.8541195,
+            "longitude": 121.7964763,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "696408a5-ed3c-4e48-8820-2cb43152f758",
+            "name": "\u7acb\u6b50\u5eda\u623f leo's cafe",
+            "score": 0,
+            "latitude": 24.7488001,
+            "longitude": 121.7427391,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "6c0f6d02-cedf-40a9-a619-dc4c830039a4",
+            "name": "\u5357\u6fb3\u597d\u7ce7\u98df\u5802 Good Eats Cafe",
+            "score": 24,
+            "latitude": 24.4642234,
+            "longitude": 121.8049092,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "740200e9-eaa6-47ba-91b4-672c1070c968",
+            "name": "Pocafes\u6ce2\u5496\u5561",
+            "score": 27,
+            "latitude": 24.6731699,
+            "longitude": 121.7640262,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "74898d91-0dbd-4089-bfab-67510ac7f948",
+            "name": "\u8212\u5ba4\u5496\u5561",
+            "score": 26,
+            "latitude": 24.7598939,
+            "longitude": 121.763143,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "7509c810-3a15-4306-92ea-90dbe5dba74f",
+            "name": "ZeraCafe \u982d\u57ce\u7ad9\u820d",
+            "score": 0,
+            "latitude": 24.8579739,
+            "longitude": 121.8224972,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "76f77c16-b544-4673-a9ce-21ed6f098ee7",
+            "name": "\u4e5d\u865f\u5496\u5561\u97f3\u6a02\u5ee3\u5834",
+            "score": 20,
+            "latitude": 24.8287817,
+            "longitude": 121.7733336,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "7a84b5bd-14aa-435f-87d8-f5e85bafa432",
+            "name": "\u79ae\u7269\u5496\u5561",
+            "score": 22,
+            "latitude": 24.6821841,
+            "longitude": 121.7711039,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "7d02ca70-7be7-4ae7-9858-24c31701ee5d",
+            "name": "\u8dd1\u99ac\u5496\u5561 Paoma Cafe",
+            "score": 0,
+            "latitude": 24.830752,
+            "longitude": 121.7731304,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "81c6158e-a677-49d7-b552-5bc91152f074",
+            "name": "Deer's Caf\u00e9 \u9e7f \u5496\u5561\u5de5\u574a",
+            "score": 0,
+            "latitude": 24.679756,
+            "longitude": 121.76845,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "82b82cb4-3190-4039-9966-93a2ae848c76",
+            "name": "\u85cf\u9152\u9152\u838a",
+            "score": 25.5,
+            "latitude": 24.9071472,
+            "longitude": 121.8494679,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "886a5e92-9e49-4df9-934c-c76e556a345f",
+            "name": "\u96c6\u5496\u5561",
+            "score": 0,
+            "latitude": 24.7588654,
+            "longitude": 121.7532106,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "904c5a82-d64a-4346-90f6-e7375b5dd1a9",
+            "name": "\u7834\u5e03\u70cf\u5496\u5561 Popuwoo Cafe",
+            "score": 30,
+            "latitude": 24.663411,
+            "longitude": 121.636652,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "91c02428-2da4-4a5a-a7bd-1c8e25c8bfe9",
+            "name": "Caf\u00e9 Go Blank \u4f86\u53bb\u653e\u7a7a\u5496\u5561\u5de5\u4f5c\u5ba4",
+            "score": 23,
+            "latitude": 24.7285353,
+            "longitude": 121.7651074,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "93f2ae9d-50f3-452b-9dc7-190dfa3264e7",
+            "name": "NORIMORI Shop & House",
+            "score": 0,
+            "latitude": 24.6426323,
+            "longitude": 121.7567739,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "94e6bbee-cec2-4727-a5a2-f9c8fa4079a9",
+            "name": "\u5149\u89ba\u5496\u5561 Lighten Cafe",
+            "score": 28.5,
+            "latitude": 24.8286696,
+            "longitude": 121.7713297,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "99a7cfc5-f2ef-47ca-a374-d6752b8d3bb9",
+            "name": "PonPon \u4e53\u4e53\u96dc\u8ca8\u5496\u5561",
+            "score": 0,
+            "latitude": 24.8267781,
+            "longitude": 121.7698835,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "a51e8a50-3247-4eb8-83f4-88d5fc541aca",
+            "name": "\u864e\u5496\u5561",
+            "score": 25,
+            "latitude": 24.7532081,
+            "longitude": 121.747117,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "a965e583-6a47-4032-9ebb-4dca56dc76c3",
+            "name": "\u597d\u68ee\u5496\u5561x \u8a3b\u66f8\u5e97",
+            "score": 28,
+            "latitude": 24.6798201,
+            "longitude": 121.768148,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "b293b180-81ea-442e-9fad-05070e12a960",
+            "name": " \u73a9\u9017\u6a39\u684c\u904a\u5496\u5561",
+            "score": 27,
+            "latitude": 24.6814478,
+            "longitude": 121.7681906,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "b81068ce-daf0-4462-9105-2bd533c95978",
+            "name": "\u5c0f\u63ed\u5546\u884c Coffee Street CO.",
+            "score": 24,
+            "latitude": 24.6774551,
+            "longitude": 121.7706867,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "bdb5248a-5782-4b49-ac32-dcd1bcb06f0a",
+            "name": "\u9038\u5883 X \u5fc3\u5883",
+            "score": 28,
+            "latitude": 24.758402,
+            "longitude": 121.7835599,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "bde1cb5b-8711-4f8d-ba73-48116757d42c",
+            "name": "\u65e5\u5409\u5496\u5561gooddaycafe'",
+            "score": 23,
+            "latitude": 24.7556479,
+            "longitude": 121.7617633,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "c1f8b4d0-4bfb-4c4c-b222-9f23e4fb851a",
+            "name": "DOG SPACE - \u5bf5\u7269\u7a7a\u9593",
+            "score": 28.5,
+            "latitude": 24.824101,
+            "longitude": 121.7714635,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "c250c327-176f-44eb-8c2e-dd75c0069f46",
+            "name": "Stay\u65c5\u4eba\u66f8\u5e97",
+            "score": 15,
+            "latitude": 24.755646,
+            "longitude": 121.7575191,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "c3583caf-322a-4b17-9c6f-601d5d2b4494",
+            "name": "\u63e1\u5496\u5561Oh\uff01cafe \u5b9c\u862d\u7f85\u6771\u5e97",
+            "score": 28,
+            "latitude": 24.688212,
+            "longitude": 121.7702561,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "c5fcaf08-335f-405d-a674-a325767e01cc",
+            "name": "\u820a\u66f8\u6ac3-\u4e8c\u624b\u66f8 \u5496\u5561 \u8f15\u98df",
+            "score": 24,
+            "latitude": 24.7561708,
+            "longitude": 121.7582404,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "cc17538e-d5b4-4486-b7f0-4132d71614a9",
+            "name": "dew 36 \u7dbb\u9732 coffee elite",
+            "score": 25,
+            "latitude": 24.74508,
+            "longitude": 121.7522791,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "cde192a3-8668-4094-a3c0-ee8a670c946c",
+            "name": "\u9017\u9017\u5546\u865f",
+            "score": 25,
+            "latitude": 24.7483069,
+            "longitude": 121.752148,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "cebc038b-2fa6-4717-a212-a214d25ee2b9",
+            "name": "\u548c\u5e73\u8857\u5c4b",
+            "score": 15,
+            "latitude": 24.858173,
+            "longitude": 121.824327,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "ced6ba61-2234-4373-adc7-25214c53b2c8",
+            "name": "\u888b\u9f20\u5496\u5561",
+            "score": 21.5,
+            "latitude": 24.677814,
+            "longitude": 121.765238,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "d04d1f65-5212-45a8-9436-84a5412cc1b7",
+            "name": "\u4fe1\u4ef0\u5496\u5561",
+            "score": 29,
+            "latitude": 24.6909504,
+            "longitude": 121.7705745,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "d0f4ba73-c744-457c-b4cf-a8a1a0e29bff",
+            "name": "\u5927\u624b\u5c0f\u624b\u5496\u5561\u5c4b",
+            "score": 0,
+            "latitude": 24.727295,
+            "longitude": 121.7575531,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "d1f38364-bc6c-4d2d-b7e7-0f981cc8d029",
+            "name": "\u6563\u6b65Cafe Sanpo",
+            "score": 29,
+            "latitude": 24.750494,
+            "longitude": 121.755028,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "d4cac5dc-768d-464e-a47d-f8694c399c9b",
+            "name": "Resort Brew Coffee Co.",
+            "score": 23,
+            "latitude": 24.7472148,
+            "longitude": 121.7486137,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "d83b252c-295c-441e-870f-1cd36c271189",
+            "name": "\u6b50\u9e9f\u5496\u5561\u9928",
+            "score": 24,
+            "latitude": 24.7450531,
+            "longitude": 121.7521927,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "dc365e64-79d3-43de-bb30-ec976cc37813",
+            "name": "\u5b9a\u90a6\u5496\u5561",
+            "score": 0,
+            "latitude": 24.8306853,
+            "longitude": 121.7847571,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "dd65c9c1-cf82-44d0-a472-f45ef5eb6d83",
+            "name": "\u4e00\u5f04\u5496\u5561",
+            "score": 26,
+            "latitude": 24.7441375,
+            "longitude": 121.7473675,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "e20a777a-d43c-45f7-a3ab-0d492e3d21e6",
+            "name": "\u6587\u9ce5\u516c\u5bd3",
+            "score": 26,
+            "latitude": 24.8231441,
+            "longitude": 121.770148,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "e526bfd5-abc6-4667-bf27-a14fafc02ac1",
+            "name": "\u4e4b\u9593\uff1b",
+            "score": 30,
+            "latitude": 24.7570172,
+            "longitude": 121.7503669,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "ea989c8d-b177-4ac7-bf9a-9e24a93a2688",
+            "name": "\u91cc\u6d77\u5496\u5561",
+            "score": 0,
+            "latitude": 24.8232043,
+            "longitude": 121.7665239,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "eea24637-a454-4067-9771-5393a93b0839",
+            "name": "Caf\u00e9 SoDavid",
+            "score": 27.5,
+            "latitude": 24.6860829,
+            "longitude": 121.7694688,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "eef9222f-0210-48c9-872d-46bd65828a79",
+            "name": "Link88",
+            "score": 28,
+            "latitude": 24.5960463,
+            "longitude": 121.850821,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "f4d501f2-71a9-4de8-a1f7-c477c9c684f1",
+            "name": "\u767b\u51fa\u5496\u5561",
+            "score": 27.5,
+            "latitude": 24.753103,
+            "longitude": 121.7510758,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "fab4d0b8-114a-4459-b5cf-f415ab35a1bf",
+            "name": "\u718a\u4f86\u4e86",
+            "score": 26,
+            "latitude": 24.7566202,
+            "longitude": 121.7474714,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        }
+    ]
+}

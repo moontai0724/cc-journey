@@ -1,0 +1,185 @@
+{
+    "status": 1,
+    "cafes": [
+        {
+            "id": "0795799e-e6e2-45a7-a472-20cb86c063d3",
+            "name": "\u5439\u5439\u98a8\u7cbe\u54c1\u5496\u5561\u9928",
+            "score": 27,
+            "latitude": 23.5676505,
+            "longitude": 119.565521,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "24ee1f38-f52a-4824-a2c0-c665d6da97c7",
+            "name": "\u590f\u81f323.5\u651d\u5f71\u6587\u5275\u5496\u5561",
+            "score": 28,
+            "latitude": 23.5648753,
+            "longitude": 119.5644955,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "39a8dbcc-232b-4398-9341-ca040c9a0ebd",
+            "name": "\u53ca\u6797\u6625Gilly primavera",
+            "score": 26,
+            "latitude": 23.5592998,
+            "longitude": 119.6426317,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "58e25f17-7381-4e7b-af54-8615892a03b8",
+            "name": "\u8349\u6839\u679c\u5b50",
+            "score": 30,
+            "latitude": 23.568478,
+            "longitude": 119.569448,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "6fa04ec6-12be-4ce6-b0b2-e11fa5a87804",
+            "name": "\u80af\u5854\u5496\u5561",
+            "score": 24.5,
+            "latitude": 23.5639435,
+            "longitude": 119.5650706,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "876353c3-56c6-48b0-a973-8c6b84fb3eb5",
+            "name": "880\u5496\u5561\u5916\u5e36\u5427",
+            "score": 26,
+            "latitude": 23.5688067,
+            "longitude": 119.5680122,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "b1ad4b13-3c2e-4f37-9dd3-380971da4025",
+            "name": "\u72d0\u7374\u5496\u5561\u9928",
+            "score": 30,
+            "latitude": 23.5743681,
+            "longitude": 119.5794924,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "bc0b5848-5ae3-4964-83c9-2869bea81c0e",
+            "name": "\u5439\u5439\u98a8\u7cbe\u54c1\u5496\u5561\u9928-\u78bc\u982d\u5e97",
+            "score": 26,
+            "latitude": 23.562291,
+            "longitude": 119.5682779,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "bd0f16f4-2e11-4d07-9c8f-6bc1e625aa64",
+            "name": "\u838e\u838e\u5496\u5561",
+            "score": 25,
+            "latitude": 23.5689098,
+            "longitude": 119.5680007,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "c1c53cce-20cb-4d40-89f1-6186c26c483c",
+            "name": "\u5df4\u91cc\u5712",
+            "score": 18,
+            "latitude": 23.5653949,
+            "longitude": 119.5675131,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "d8f12f84-0248-415e-a89b-845d6114154c",
+            "name": "\u8499\u5730\u5361\u7f85",
+            "score": 27,
+            "latitude": 23.567456,
+            "longitude": 119.5677177,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "ddff5488-1e74-4e94-aea2-421e251e1b63",
+            "name": "\u6f8e\u6e56\u4f0a\u7d22\u62c9\u5496\u5561\u9928",
+            "score": 23,
+            "latitude": 23.5664677,
+            "longitude": 119.5683958,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        }
+    ]
+}

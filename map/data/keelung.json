@@ -1,0 +1,335 @@
+{
+    "status": 1,
+    "cafes": [
+        {
+            "id": "06810569-7409-4c91-8f99-898bda126b1a",
+            "name": "\u5c0f\u7fa9\u5927\u5229\u5496\u5561 Ocean",
+            "score": 23,
+            "latitude": 25.1302729,
+            "longitude": 121.7416215,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "0c8fd155-e548-4f81-9896-7d939c7dc66a",
+            "name": "\u91d1\u8c46\u5496\u5561",
+            "score": 28,
+            "latitude": 25.1292645,
+            "longitude": 121.7390206,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "1f7bf985-6608-40cb-9e81-9b96b6b726eb",
+            "name": "\u963f\u4fe1\u5496\u5561\u9928",
+            "score": 20,
+            "latitude": 25.1279848,
+            "longitude": 121.7451279,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "3662b90c-c266-402f-8326-fba227642f6b",
+            "name": "Ruth C. Coffee",
+            "score": 27,
+            "latitude": 25.12995,
+            "longitude": 121.740995,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "40bd419c-1ca8-4e07-b24d-b8c0928b7c14",
+            "name": "SOH Espresso Cafe",
+            "score": 24,
+            "latitude": 25.1280086,
+            "longitude": 121.74942,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "426566b9-74de-48c1-ae92-e0f7594f17cf",
+            "name": "\u4e09\u5947\u58f9\u865f\u5496\u5561\u9928",
+            "score": 27,
+            "latitude": 25.1289751,
+            "longitude": 121.7425004,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "50d32b2d-d5ef-4bb7-9238-d18134508d96",
+            "name": "\u718a\u8c46\u5496\u5561",
+            "score": 28,
+            "latitude": 25.1520428,
+            "longitude": 121.7699139,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "5a13623e-b264-476a-9e3f-4e54cbe81420",
+            "name": "\u590f\u9686\u5496\u5561",
+            "score": 25,
+            "latitude": 25.1314105,
+            "longitude": 121.7517546,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "6596d0c0-5022-4986-ad29-9d0529c5b769",
+            "name": "COZY Beans Coffee \u827e\u723e\u5496\u5561",
+            "score": 26,
+            "latitude": 25.0857543,
+            "longitude": 121.6971285,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "6a020200-595e-4bff-b151-a1da7f542535",
+            "name": "Yili Coffee House \u4e00\u7c92\u73c8\u7432",
+            "score": 18,
+            "latitude": 25.1470205,
+            "longitude": 121.783176,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "71e1fcd1-14dd-41d6-9ee4-2eeaa85433d5",
+            "name": "FLOW CAFE",
+            "score": 27,
+            "latitude": 25.127168,
+            "longitude": 121.7664482,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "77ef917b-544a-44f7-9bca-cd5d6b99d2ed",
+            "name": "Vita A Simple Cafe'",
+            "score": 0,
+            "latitude": 25.1284195,
+            "longitude": 121.7646088,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "7e107546-b695-4d01-976f-360a98016ce6",
+            "name": "Homerun Roasters",
+            "score": 25.5,
+            "latitude": 25.12779,
+            "longitude": 121.748467,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "84f5b4fb-cede-443a-80e1-c7db962ec859",
+            "name": "LOKA CAFE",
+            "score": 23,
+            "latitude": 25.132931,
+            "longitude": 121.7447597,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "950b2e4c-e1df-443e-8d29-2c002eb53f23",
+            "name": "\u9b5a\u5496\u5561",
+            "score": 25,
+            "latitude": 25.1505436,
+            "longitude": 121.715111,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "97c3536c-36f5-47b1-8647-c09a20f56b9f",
+            "name": "\u4e38\u89d2@\u81ea\u8f49\u751f\u6d3b.\u5496\u5561 ",
+            "score": 26,
+            "latitude": 25.1285479,
+            "longitude": 121.7396283,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "a41a4ada-861e-4452-a515-739bde4fa54b",
+            "name": "\u8c93\u753a\u5496\u5561",
+            "score": 21,
+            "latitude": 25.1278987,
+            "longitude": 121.7416512,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "b754bbd8-4a67-4681-b410-8848a791a576",
+            "name": "S&D\u5496\u5561\u57fa\u9686\u5fe0\u4e09\u9580\u5e02",
+            "score": 0,
+            "latitude": 25.1295842,
+            "longitude": 121.7390843,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "bb04b1a8-6a8d-4edc-a930-cf5d2e72d7ef",
+            "name": "\u5e78\u798f\u6eff\u5496\u5561\u9928",
+            "score": 27,
+            "latitude": 25.0988653,
+            "longitude": 121.7548514,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "cf758030-48f6-42cf-8bfa-f95fc4ec33b5",
+            "name": "\u590f\u9686\u5496\u5561 Shalom Cafe",
+            "score": 0,
+            "latitude": 25.1316555,
+            "longitude": 121.7515734,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "d85a413f-74e5-450f-902e-3f77e9c94210",
+            "name": "Eddie's cafe Et Tiramisu",
+            "score": 28,
+            "latitude": 25.1260467,
+            "longitude": 121.7360618,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": true
+        },
+        {
+            "id": "eed11edd-6d6a-4339-8b23-e81bff75bada",
+            "name": "\u884c\u8005\u5496\u5561\u9928",
+            "score": 0,
+            "latitude": 25.1292273,
+            "longitude": 121.7421496,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        }
+    ]
+}

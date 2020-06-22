@@ -1,0 +1,35 @@
+{
+    "status": 1,
+    "cafes": [
+        {
+            "id": "6132a895-bb45-4b24-816e-906a6b4cb2bf",
+            "name": "\u592b\u4eba\u5496\u5561\u9928",
+            "score": 19,
+            "latitude": 26.170903,
+            "longitude": 119.926103,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        },
+        {
+            "id": "b1ed88f4-df89-45e7-b994-b937c8f02d33",
+            "name": "\u82b9\u58c1\u4eba\u6587\u5496\u5561\u9928",
+            "score": 24,
+            "latitude": 26.224205,
+            "longitude": 119.98246,
+            "type": "normal",
+            "attr": {
+                "is_starred": false,
+                "is_donated": false,
+                "is_friendly": false
+            },
+            "qualified": true,
+            "isGoodForWorking": false
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>地圖 - 文創之旅</title>
+        <link rel="icon" href="../icon/with-background.png" type="image/png">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-78008971-4"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-78008971-4');
+        </script>
+        <!-- Google Map -->
+        <script src="//polyfill.io/v3/polyfill.min.js?features=default"></script>
+        <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyDH63jCZsRQT9qEKkgP52MK2X51ZSEDQMU&callback=init" async defer></script>
+        <script src="//unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js"></script>
+        <!-- jQuery -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+        <script src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+        <!-- Vue.js -->
+        <script src="//cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <!-- Custom -->
+        <script src="index.js"></script>
+        <link rel="stylesheet" href="index.css">
+    </head>
+
+    <body>
+        <div id="map">
+            <div style="text-align: center;">
+                載入中... 若載入過久，請重新整理。
+            </div>
+        </div>
+        <div id="vue-content">
+            <div id="searchbox">
+                <div class="input-group input-group-lg">
+                    <div class="input-group-prepend" @click="toggle_menu">
+                        <button class="btn" type="button">
+                            <i class="fas fa-bars" style="color: gray;"></i>
+                        </button>
+                    </div>
+                    <input type="text" class="form-control" placeholder="搜尋文創地圖推薦商店" v-model="search_input" v-on:keyup.enter="start_search">
+                    <div class="input-group-append" @click="start_search">
+                        <button class="btn" type="button">
+                            <i class="fas fa-search" style="color: gray;"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div id="left-panel" :class="{ show: display.left_panel }">
+                <div class="toast-header">
+                    <strong class="mr-auto">所有地點 ({{ mapPoints.filter(point => point.display).length }})</strong>
+                    <button type="button" class="ml-2 mb-1 close" @click="toggle_menu">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="toast-body">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item" v-for="(point, index) in mapPoints" :key="'point-' + index" v-show="point.display" @click="panTo(index)">{{ point.name }}</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="modal" tabindex="-1" role="dialog">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content" v-if="display_modal">
+                        <div class="modal-header">
+                            <h5 class="modal-title">{{ modal.point.name }}</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close" @click="display_modal = false">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">經緯度：({{ modal.point.latitude }}, {{ modal.point.longitude }})</li>
+                                <li class="list-group-item">適合工作：{{ modal.point.isGoodForWorking ? "是" : "否" }}</li>
+                                <li class="list-group-item">評分：{{ modal.point.score }}</li>
+                                <li class="list-group-item"><a :href="`https://cafenomad.tw/shop/${modal.point.id}`" target="_blank">查看更多資訊</a></li>
+                                <li class="list-group-item"><a :href="`https://www.google.com/maps/search/?api=1&query=${modal.point.name}+${modal.point.latitude},${modal.point.longitude}`" target="_blank">導航到該地點</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>

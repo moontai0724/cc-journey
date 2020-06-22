@@ -1,0 +1,28 @@
+{
+    "cafes": [
+        {
+            "id": "f9980bb0-569c-46b2-8ddd-416955429371",
+            "name": "\u7da0\u7235\u8f15\u98df\u9928 LEISURELY CAF\u00c9",
+            "latitude": 24.173484,
+            "longitude": 120.714402
+        },
+        {
+            "id": "f9da880a-3d3a-47e0-aded-75f9e27bd0c7",
+            "name": "T\u2019s Bookstore \u66f8\u5e97",
+            "latitude": 24.1810569,
+            "longitude": 120.5923226
+        },
+        {
+            "id": "fe39ab41-49a1-427e-9771-0ec8f60f6f25",
+            "name": "Yosano\u4e0e\u8b1d\u91ce\u76f4\u706b\u70d8\u7119\u5496\u5561\u5de5\u4f5c\u5ba4",
+            "latitude": 24.143503,
+            "longitude": 120.667508
+        },
+        {
+            "id": "feb15726-763f-41af-ba57-9de13c66502f",
+            "name": "\u8001\u8c93\u86cb\u6372\u5496\u5561",
+            "latitude": 24.191257,
+            "longitude": 120.613
+        }
+    ]
+}
